@@ -35,7 +35,7 @@ Feel free to explore my repositories to see more of my testing and automation wo
 I'm always open to discussing testing strategies, automation challenges, or collaborating on exciting testing projects. You can reach me through:
 
 - [Email](shjr0421@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/s-shijirjargal/)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/s-shijirjargal/)https://www.linkedin.com/in/s-shijirjargal/)
 
 ### 🌟 Fun Fact
 I [insert a fun]
