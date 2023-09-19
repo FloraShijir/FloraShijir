@@ -22,13 +22,6 @@ At the moment, my focus is on:
 - Implementing continuous integration and continuous delivery (CI/CD) pipelines for faster and reliable testing.
 - Exploring new tools and techniques for performance and security testing.
 
-### 🚀 My Projects
-Here are a few testing and automation projects I'm proud of:
-
-1. [Project Name](link-to-project) - Test automation for a web application using Selenium and Java.
-2. [Project Name](link-to-project) - Mobile app testing with Appium and Java.
-3. [Project Name](link-to-project) - Performance testing of an e-commerce platform using JMeter.
-
 Feel free to explore my repositories to see more of my testing and automation work.
 
 ### 📫 Let's Connect
@@ -37,6 +30,4 @@ I'm always open to discussing testing strategies, automation challenges, or coll
 - [Email](shjr0421@gmail.com)
 - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/s-shijirjargal/)https://www.linkedin.com/in/s-shijirjargal/)
 
-### 🌟 Fun Fact
-I [insert a fun]
 
